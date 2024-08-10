@@ -1,4 +1,4 @@
-# Quantum-AI-for-Climate
+[Womanium Quantum+AI Project Presentation.pptx](https://github.com/user-attachments/files/16567923/Womanium.Quantum%2BAI.Project.Presentation.pptx)# Quantum-AI-for-Climate
 Womanium Quantum+AI 2024 Projects
 
 **Please review the participation guidelines [here](https://github.com/womanium-quantum/Quantum-AI-2024) before starting the project.**
@@ -9,7 +9,7 @@ _**Include all necessary information only as per the given format.**_
 
 ## Project Information:
 
-### Team Size:
+### Team Size: 
   - Maximum team size = 4
   - While individual participation is also welcome, we highly recommend team participation :)
 
@@ -33,8 +33,8 @@ Ensure your repository does not contain any personal or team tokens/access infor
 
 ### Team Information:
 Team Member 1:
- - Full Name: 
- - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):
+ - Full Name: Dounia Boutaguia
+ - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx):WQ24-wNEwEJYDe51KwE4
 
 Team Member 2:
  - Full Name: 
@@ -52,10 +52,14 @@ Team Member 4:
 
 
 ### Project Solution:
+[Womanium Quantum+AI Project 2024.docx](https://github.com/user-attachments/files/16567926/Womanium.Quantum%2BAI.Project.2024.docx)
+
 _Include a comprehensive summary of all important information about your project solution here._
 All necessary code files and any additional information required to judge your project solution should be included in the repository. 
 
 ### Project Presentation Deck:
+[Womanium Quantum+AI Project Presentation.pptx](https://github.com/user-attachments/files/16567924/Womanium.Quantum%2BAI.Project.Presentation.pptx)
+
 _Upload/ Link a 3min. presentation deck here._
 
 See project presentation guidelines [here](https://docs.google.com/document/d/13nWF8AxFAfFYTWEYPT3BpPdYkqtxxSAjmuXj_zcMh-E/edit?usp=sharing)
